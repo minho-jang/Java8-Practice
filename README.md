@@ -1,3 +1,3 @@
-# java8-practice
+# Java8-Practice
 
-JAVA8 배워보자. 써보자.
+Java8 배워보자. 써보자.
